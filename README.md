@@ -3,7 +3,6 @@
 ## Atualmente Cursando
 
 Técnico em Desenvolvimento de Sistemas Articulado Médio Superior (AMS) <br>
-📍Etec Jacinto Ferreira de Sá
 ##
 Apaixonado por tecnologia desde criança 😊 <br><br>
 ![bavxzx](https://github-readme-stats.vercel.app/api?username=bavxzx&show_icons=true&theme=dark)
