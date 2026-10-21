@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/fábio-e-ferrazolli-0078b3283">
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-e-ferrazolli-0078b3283/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/bavxzx">
@@ -25,10 +25,11 @@ I'm a Systems Analysis and Development student at **Fatec Ourinhos**, Brazil, pa
 - 🎓 Studying **Systems Analysis and Development at Fatec Ourinhos**.
 - 💻 Interested in **Full-Stack Development**, working with both backend and frontend technologies.
 - ☕ Focused on Java and Spring Boot for backend development.
-- 🌐 Exploring frontend development with HTML, CSS, and JavaScript.
+- 🌐 Developing my frontend skills with HTML, CSS, and JavaScript.
 - 🗄️ Learning about relational databases, SQL, and REST APIs.
-- 🚀 Building academic and personal projects to improve my skills.
+- 🚀 Building academic and personal projects to improve my development skills.
 - 🌱 Always learning and looking for opportunities to grow as a developer.
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
@@ -77,19 +78,17 @@ I'm a Systems Analysis and Development student at **Fatec Ourinhos**, Brazil, pa
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code"/>
   </a>
-
 </p>
-
 
 ## 📌 Featured Projects
 
 ### SINOEE — Academic Event Management System
+
 An academic project designed to centralize event notifications and improve communication between students, teachers, coordinators, and administrators.
 
 **Technologies:** Java, Spring Boot, SQL, HTML, CSS, JavaScript
 
-### Other Projects
-Explore my repositories to see more of my academic projects, experiments, and progress in software development.
+Explore my repositories to discover more of my academic projects and software development journey.
 
 ## 📊 GitHub Statistics
 
@@ -103,7 +102,7 @@ Explore my repositories to see more of my academic projects, experiments, and pr
 I'm always open to learning opportunities, collaborative projects, and connecting with other developers.
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-e-ferrazolli-0078b3283/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
