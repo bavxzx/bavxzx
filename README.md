@@ -80,16 +80,6 @@ I'm a Systems Analysis and Development student at **Fatec Ourinhos**, Brazil, pa
   </a>
 </p>
 
-## 📌 Featured Projects
-
-### SINOEE — Academic Event Management System
-
-An academic project designed to centralize event notifications and improve communication between students, teachers, coordinators, and administrators.
-
-**Technologies:** Java, Spring Boot, SQL, HTML, CSS, JavaScript
-
-Explore my repositories to discover more of my academic projects and software development journey.
-
 ## 📊 GitHub Statistics
 
 <p align="center">
