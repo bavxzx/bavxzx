@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/fábio-e-ferrazolli-0078b3283">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/bavxzx">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -94,8 +94,8 @@ Explore my repositories to see more of my academic projects, experiments, and pr
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bavxzx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavxzx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 
 ## 🤝 Let's Connect
